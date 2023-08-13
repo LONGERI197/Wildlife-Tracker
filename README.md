@@ -9,14 +9,24 @@ The Forest Service is considering a proposal from a timber company to clearcut a
 
 # Table of Contents
 Sections
+
 Install
+
 Installation Requirements
+
 Manual Database Creation
+
 Usage
+
 Screen Shots
+
 Known Bugs
+
 Sources
+
 Maintainer
+
 Contribute
+
 License
 
